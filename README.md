@@ -1,0 +1,2 @@
+# background_mask_with_image
+背景つきマスクに画像も読み込めるように機能を追加した。トラックバーも追加した。Aviutl2用
