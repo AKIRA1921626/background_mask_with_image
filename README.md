@@ -1,4 +1,4 @@
-# background_mask_with_image  
+# 背景付きマスク画像追加バージョン  
 下記自作スクリプトに、画像を読み込む機能を追加した。  
 https://github.com/AKIRA1921626/background_mask  
 背景つきマスクに画像も読み込めるように機能を追加した。トラックバーも追加した。  
